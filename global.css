@@ -1,7 +1,6 @@
 body {
   list-style-type: none;
-  font-family: helvetica, arial, sans-serif;
-  margin: 0px;
+  font: Verdana;
   font-size: 15px;
 }
 
