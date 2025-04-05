@@ -56,7 +56,7 @@ body {
 }
 
 #topwrapper {
-  float: right;
+  float: center;
   background-color: deepskyblue;
   color: white;
   width: 200px;
