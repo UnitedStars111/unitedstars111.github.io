@@ -51,9 +51,10 @@ body {
 }
 
 #topwrapper {
+  float: right;
   background-color: deepskyblue;
   color: white;
-  width: 150px
+  width: 200px;
   padding: 15px;
   border-radius: 5px;
   border-style: dotted;
