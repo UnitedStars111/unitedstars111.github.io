@@ -2,6 +2,7 @@ body {
   list-style-type: none;
   font-family: helvetica, arial, sans-serif;
   margin: 0px;
+  font-size: 15px;
 }
 
 #selectionlist ul {
@@ -12,6 +13,7 @@ body {
   background-color: blue;
   padding: 0px;
 }
+
 #selectionlist li a {
   display: block;
   width: 60px;
