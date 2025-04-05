@@ -10,7 +10,8 @@ body {
   font-size: 15px;
   margin: 0px;
   width: 200px;
-  background-color: blue;
+  background-color: deepskyblue;
+  color: gainsboro;
   padding: 0px;
 }
 
@@ -19,4 +20,10 @@ body {
   width: 60px;
   text-decoration: none;
   padding: 8px 16px;
+  text-align: center;
+}
+
+.active {
+  background-color: white;
+  color: gray;
 }
