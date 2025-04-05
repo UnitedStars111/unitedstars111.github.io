@@ -30,6 +30,11 @@ body {
   transition: 0.5s;
 }
 
+.active {
+  background-color: white;
+  color: gray;
+}
+
 #topwrapper {
   background-color: deepskyblue;
   color: white;
@@ -38,8 +43,5 @@ body {
   border-style: dotted;
   border-color: white;
   border-width: 3px;
-}
-.active {
-  background-color: white;
-  color: gray;
+  font: 100% Verdana;
 }
