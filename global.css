@@ -23,6 +23,12 @@ body {
   text-align: center;
 }
 
+#selectionlist li a:hover{
+  background-color: white;
+  color: gray;
+  transition: 0.5s;
+}
+
 .active {
   background-color: white;
   color: gray;
