@@ -2,6 +2,9 @@ body {
   list-style-type: none;
   font: Verdana;
   font-size: 15px;
+  width: 728px;
+  margin: auto;
+  border: 2px dotted black;
 }
 
 #navbar {
