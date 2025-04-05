@@ -5,6 +5,11 @@ body {
   margin: 0px;
 }
 
+#selectionlist {
+  list-style-type: none;
+  font-size: 15px;
+  margin: 0px;
+}
 #selectionlist li a {
   display: block;
   width: 60px;
