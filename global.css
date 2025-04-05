@@ -56,10 +56,10 @@ body {
 }
 
 #topwrapper {
-  float: center;
+  float: left;
   background-color: deepskyblue;
   color: white;
-  width: 200px;
+  width: auto;
   padding: 15px;
   border-radius: 5px;
   border-style: dotted;
