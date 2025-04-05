@@ -5,6 +5,13 @@ body {
   font-size: 15px;
 }
 
+#selectionlist {
+  width: 200px;
+  font-size: 15px;
+  font: Verdana;
+  list-style-type: none;
+  text-decoration: none;
+}
 #selectionlist ul {
   list-style-type: none;
   font-size: 15px;
