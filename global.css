@@ -4,3 +4,8 @@ body {
   font-size: 0px;
   margin: 0px;
 }
+
+#selectionlist li a {
+  display: block;
+  width: 60px;
+}
