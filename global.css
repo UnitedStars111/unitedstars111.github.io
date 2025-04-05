@@ -30,6 +30,11 @@ body {
   transition: 0.5s;
 }
 
+#topwrapper {
+  background-color: deepskyblue;
+  color: white;
+  padding: 15px;
+}
 .active {
   background-color: white;
   color: gray;
