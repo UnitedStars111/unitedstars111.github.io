@@ -4,6 +4,12 @@ body {
   font-size: 15px;
 }
 
+#navbar {
+  float: left;
+  display: block;
+  width: 200px;
+}
+
 #selectionlist {
   display: block;
   width: 200px;
