@@ -40,11 +40,13 @@ body {
   text-decoration: none;
   padding: 8px 16px;
   text-align: center;
+  background-color: DimGrey;
+  border: 2px solid #808080;
+  color: black;
 }
 
 #selectionlist li a:hover{
   background-color: white;
-  color: gray;
   transition: 0.5s;
 }
 
