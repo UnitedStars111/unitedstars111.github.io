@@ -11,6 +11,8 @@ body {
   float: left;
   display: inline-block;
   width: 200px;
+  position: fixed;
+  top: 200px;
 }
 
 #selectionlist {
