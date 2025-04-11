@@ -28,7 +28,7 @@ body {
   margin: 0px;
   padding: 0px;
   overflow: hidden;
-  background-color: deepskyblue;
+  background-color: #354c7c;
 }
 
 #selectionlist ul {
@@ -46,7 +46,7 @@ body {
 
 #selectionlist li a:hover {
   background-color: white;
-  transition: 0.5;
+  transition: 0.5s;
 }
 
 /* #selectionlist {
