@@ -70,3 +70,14 @@ body {
   border-width: 3px;
   font: 100% Verdana;
 }
+
+#updatebar {
+  background-color: aliceblue;
+  color: white;
+  padding: 15px;
+  width: 350px;
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  right: 0;
+}
