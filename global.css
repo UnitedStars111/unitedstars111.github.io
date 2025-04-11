@@ -23,7 +23,6 @@ body {
     background-color: #354c7c;
     color: #eaebfe;
     padding: 0px;
-    margin: 0;
     overflow: hidden;
     width: 900px;
 }
@@ -34,7 +33,7 @@ body {
     color: #eaebfe;
     padding: 0px;
     margin-top: 2px;
-    margin: 0px;
+    margin: auto;
     overflow: hidden;
     width: 900px;
 }
