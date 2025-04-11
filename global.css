@@ -16,6 +16,8 @@ body {
 }
 
 .navbar ul {
+    border: 2px dotted white;
+    border-radius: 5px;
     list-style-type: none;
     background-color: #354c7c;
     color: #eaebfe;
