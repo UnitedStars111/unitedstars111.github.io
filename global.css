@@ -15,40 +15,20 @@ body {
   height: auto;
 }
 
-#navbar {
-  margin-top: 0px;
-  float: left;
-  display: inline;
-  width: 150px;
-  height: auto;
+.navbar ul {
+    list-style-type: none;
+    background-color: #354c7c;
+    color: #eaebfe;
+    padding: 0px;
+    margin: 0;
 }
 
-#selectionlist {
-  list-style-type: none;
-  margin: 0px;
-  padding: 0px;
-  overflow: hidden;
-  background-color: #354c7c;
-  color: #eaebfe;
-}
-
-#selectionlist ul {
-  float: left;
-  text-align: center;
-}
-
-#selectionlist li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-#selectionlist li a:hover {
-  background-color: white;
-  transition: 0.5s;
-  color: #354c7c;
+.navbar a {
+    text-decoration: none;
+    color: #eaebfe;
+    padding: 14px 16px;
+    display: block;
+    text-align: center;
 }
 
 /* #selectionlist {
