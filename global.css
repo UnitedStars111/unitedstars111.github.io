@@ -73,6 +73,8 @@ body {
 }
 
 #updatebar {
+  margin: 2px;
+  border: 1px solid gray;
   float: right;
   background-color: aliceblue;
   color: white;
