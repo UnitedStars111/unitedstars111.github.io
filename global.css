@@ -4,6 +4,7 @@ body {
   font-size: 15px;
   width: 900px;
   margin: auto;
+  height: 100%;
   border: 2px dotted black;
 }
 
