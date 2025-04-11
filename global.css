@@ -31,6 +31,11 @@ body {
     text-align: center;
 }
 
+.navbar a:hover {
+    background-color: #eaebfe;
+    color: #354c7c;
+}
+
 /* #selectionlist {
   display: block;
   width: 200px;
