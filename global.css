@@ -8,6 +8,7 @@ body {
 }
 
 #navbar {
+  margin-top: 0px;
   float: left;
   display: inline-block;
   width: 200px;
