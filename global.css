@@ -25,6 +25,16 @@ body {
     width: 900px;
 }
 
+#selectionlist ul {
+    list-style-type: none;
+    background-color: #354c7c;
+    color: #eaebfe;
+    padding: 0px;
+    margin: 0;
+    overflow: hidden;
+    width: 900px;
+}
+
 .navbar li {
     float: left;
 }
