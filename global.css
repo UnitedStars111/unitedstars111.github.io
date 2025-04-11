@@ -12,7 +12,7 @@ body {
   font-size: 15px;
   width: 900px;
   margin: auto;
-  height: auto;S
+  height: auto;
 }
 
 #navbar {
@@ -29,6 +29,7 @@ body {
   padding: 0px;
   overflow: hidden;
   background-color: #354c7c;
+  color: #eaebfe;
 }
 
 #selectionlist ul {
@@ -47,6 +48,7 @@ body {
 #selectionlist li a:hover {
   background-color: white;
   transition: 0.5s;
+  color: #354c7c;
 }
 
 /* #selectionlist {
