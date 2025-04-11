@@ -21,6 +21,11 @@ body {
     color: #eaebfe;
     padding: 0px;
     margin: 0;
+    overflow: hidden;
+}
+
+.navbar li {
+    float: left;
 }
 
 .navbar a {
