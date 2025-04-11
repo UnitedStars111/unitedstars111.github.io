@@ -18,8 +18,8 @@ body {
 #navbar {
   margin-top: 0px;
   float: left;
-  display: inline-block;
-  width: 200px;
+  display: inline;
+  width: 150px;
   height: auto;
 }
 
