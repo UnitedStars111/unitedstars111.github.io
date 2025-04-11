@@ -16,7 +16,7 @@ body {
 }
 
 .navbar ul {
-    margin: 2px;
+    margin: auto;
     border: 2px dotted white;
     border-radius: 5px;
     list-style-type: none;
@@ -113,6 +113,7 @@ body {
   border-color: white;
   border-width: 3px;
   font: 100% Verdana;
+  margin-bottom: 5px;
 }
 
 #updatebar {
@@ -124,5 +125,4 @@ body {
   padding: 15px;
   padding-top: 10px;
   width: 250px;
-  margin-top: 5px;
 }
