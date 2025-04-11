@@ -50,6 +50,7 @@ body {
 
 #selectionlist li a:hover{
   background-color: white;
+  font-size: 18px;
   transition: 0.5s;
 }
 
