@@ -26,6 +26,7 @@ body {
 
 #selectionlist ul {
   float: left;
+  text-align: center;
 }
 
 #selectionlist ul a {
