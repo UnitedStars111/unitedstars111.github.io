@@ -29,7 +29,7 @@ body {
   text-align: center;
 }
 
-#selectionlist ul a {
+#selectionlist li a {
   display: block;
   color: white;
   text-align: center;
@@ -37,7 +37,7 @@ body {
   text-decoration: none;
 }
 
-#selectionlist ul a:hover {
+#selectionlist li a:hover {
   background-color: white;
   transition: 0.5;
 }
