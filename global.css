@@ -6,7 +6,7 @@
     Dark blue: #022954*/
 
 body {
-  background-image: url(images/backgroundimage.png);
+  background-image: url("images/backgroundimage.png");
   padding: 2px;
   list-style-type: none;
   font: Verdana;
