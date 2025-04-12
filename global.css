@@ -39,6 +39,7 @@ body {
 
 .navbar li {
     float: left;
+    border-right: 1px solid white;
 }
 
 .navbar a {
