@@ -18,7 +18,7 @@ body {
 
 .navbar ul {
     margin: auto;
-    border: 2px solid white;
+    border: 2px solid #eaebfe;
     border-radius: 5px;
     list-style-type: none;
     background-color: #354c7c;
@@ -40,7 +40,7 @@ body {
 
 .navbar li {
     float: left;
-    border-right: 5px solid white;
+    border-right: 5px solid #eaebfe;
 }
 
 .navbar a {
@@ -101,8 +101,8 @@ body {
 } */
 
 .active {
-  background-color: white;
-  color: gray;
+  background-color: #eaebfe;
+  color: #354c7c;
 }
 
 #topwrapper {
@@ -113,7 +113,7 @@ body {
   padding: 15px;
   border-radius: 5px;
   border-style: solid;
-  border-color: white;
+  border-color: #eaebfe;
   border-width: 3px;
   font: 100% Verdana;
   margin-bottom: 1px;
@@ -122,7 +122,7 @@ body {
 #updatebar {
   margin-left: 1px;
   margin-top: 4px;
-  border: 1px solid gray;
+  border: 1px solid #eaebfe;
   border-radius: 5px;
   float: right;
   background-color: #0353A4;
