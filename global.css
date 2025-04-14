@@ -28,6 +28,12 @@ body {
     width: 895px;
 }
 
+#guidelist ul {
+    list-style-type: none;
+    color: #eaebfe;
+    text-decoration: none;
+}
+
 #selectionlist ul {
     list-style-type: none;
     background-color: #354c7c;
