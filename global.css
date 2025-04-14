@@ -35,7 +35,7 @@ body {
     padding: 0px;
     margin-top: 2px;
     overflow: hidden;
-    width: 895px;
+    width: 897px;
 }
 
 .navbar li {
@@ -109,7 +109,7 @@ body {
   float: left;
   background-color: #354c7c;
   color: #eaebfe;
-  width: 850px;
+  width: 865px;
   padding: 15px;
   border-radius: 5px;
   border-style: solid;
