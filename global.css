@@ -133,9 +133,11 @@ body {
 }
 
 #mainbox {
-  background-color: #354c7c
+  background-color: #354c7c;
+  width: 895px;
   text-decoration: none;
   list-style-type: none;
+  border: 2px solid #eaebfe;
   border-radius: 5px;
 }
 
