@@ -28,10 +28,23 @@ body {
     width: 895px;
 }
 
-#guidelist ul {
-    list-style-type: none;
-    color: #eaebfe;
-    text-decoration: none;
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #eaebfe;
+  color: #354c7c;
+  min-width: auto;
+  padding: 14px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
 }
 
 #selectionlist ul {
