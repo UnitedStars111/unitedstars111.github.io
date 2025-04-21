@@ -62,7 +62,7 @@ body {
     border-right: 5px solid #eaebfe;
 }
 
-.navbar a, .dropdown {
+.navbar a, .dropdown, .drpdwn {
     text-decoration: none;
     color: #eaebfe;
     padding: 14px 16px;
@@ -71,7 +71,7 @@ body {
     transition: 0.5s;
 }
 
-.navbar a:hover, .dropdown:hover {
+.navbar a:hover, .dropdown:hover, .drpdwn:hover {
     background-color: #eaebfe;
     color: #354c7c;
     transition: 0.5s;
