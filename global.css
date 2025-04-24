@@ -157,8 +157,11 @@ body {
 }
 
 #mainbox {
+  float: right;
+  margin: auto;
+  margin-top: 4px;
   background-color: #505a74;
-  width: 643px;
+  width: 610px;
   text-decoration: none;
   list-style-type: none;
   border: 2px solid #eaebfe;
