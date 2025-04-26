@@ -1,3 +1,4 @@
+// taskbar text typewriter
 var titletext="My personal website!"
 var repeat=true;    // SET TO true TO REPEAT, false TO "TYPE" OUT TITLE ONLY ONCE.
 set=setTimeout;
