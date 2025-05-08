@@ -1,6 +1,6 @@
 // taskbar text typewriter
 var titletext="My personal website!"
-var repeat=true;    // SET TO true TO REPEAT, false TO "TYPE" OUT TITLE ONLY ONCE.
+var repeat=true;
 set=setTimeout;
 var index=0;
 function scrolltitle(){
