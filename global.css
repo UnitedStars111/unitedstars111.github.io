@@ -186,3 +186,37 @@ body {
 hr {
     color: #eaebfe;
 }
+
+/* following code by sppice */
+
+#oneout {
+    position:fixed;
+    top:64px;left:1px;
+    text-align:center;
+    -webkit-transition-duration:0.3s;-moz-transition-duration:0.3s;-o-transition-duration:0.3s;transition-duration:0.3s;
+    z-index:99999999; }
+ 
+#oneout_inner {
+    position:fixed;
+    width:230px; height:auto;
+    top:40px; left:-250px;
+    padding:10px;
+    background:#FFFFFF; /* change #FFFFFF; to transparent; if you want the background of the slide out tab to be transparent and not white*/
+    -webkit-transition-duration:0.3s;-moz-transition-duration:0.3s;-o-transition-duration:0.3s;transition-duration:0.3s;
+    text-align:left;
+    z-index:99999999; }
+ 
+#oneout:hover {
+    left:250px;
+    z-index:99999999; }
+ 
+#oneout:hover #oneout_inner {
+    left:0px;
+    z-index:99999999; }
+ 
+.onetitle {
+    position:absolute;
+    left:-11px; top:3px;
+    font-family:arial; font-size:16px;    
+    -webkit-transform:rotate(-90deg); -moz-transform:rotate(-90deg); -ms-transform:rotate(-90deg); -o-transform:rotate(-90deg); transform:rotate(-90deg);
+    z-index:99999999; }
