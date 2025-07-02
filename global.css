@@ -6,6 +6,8 @@
     Dark blue: #022954*/
 
 body {
+  cursor: url("images/cursor.png");
+  pointer: url("images/pointer.png");
   background-image: url("images/backgroundimage.png");
   padding: 2px;
   list-style-type: none;
